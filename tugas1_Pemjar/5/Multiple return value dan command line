@@ -1,0 +1,5 @@
+MULTIPLE RETURN VALUE 
+terdapat 2 inputan integer, jika kedua inputan tersebut terisi, maka variale inputan tersebut akan terisi juga, 
+maka variable inputan tersebut akan muncul sebagai 3 dan 7 variabel 2.  pada fungsi main(), a,b dijadikan inputan untuk fungsi vals() maka, a = 3 dan b = 7. lalu di cetak. 
+Setelah itu ada _ dan c sebagai inputan untuk variable ke 1 . maka c = 7 lalu varibale c dicetak
+
